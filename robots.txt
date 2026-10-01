@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://8hiandroid.com
+Sitemap: https://8hiandroid.com/sitemap.xml
